@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/8989346/123303345-171fc980-d4f4-11eb-84ae-cb0e49bfb126.png" alt="Miniatura GitHub"/>![image](https://github.com/user-attachments/assets/0d55da3f-af27-4d94-8e41-a5a4ffda8a9b)
+
 Meu primeiro desafio do programa ONE, da Oracle em parceria com a Alura:
 
 O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
